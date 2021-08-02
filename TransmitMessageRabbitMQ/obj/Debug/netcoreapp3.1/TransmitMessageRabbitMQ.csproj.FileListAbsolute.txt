@@ -1,0 +1,16 @@
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.exe
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.deps.json
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.runtimeconfig.json
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.runtimeconfig.dev.json
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.dll
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.pdb
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.csproj.AssemblyReference.cache
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.AssemblyInfoInputs.cache
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.AssemblyInfo.cs
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.csproj.CopyComplete
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.dll
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.pdb
+C:\Repository\RabbitMQRepository\TransmitMessageRabbitMQ\obj\Debug\netcoreapp3.1\TransmitMessageRabbitMQ.genruntimeconfig.cache
